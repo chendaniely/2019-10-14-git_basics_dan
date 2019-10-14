@@ -12,3 +12,9 @@ Commands learned so far:
     - `log --oneline`: just look at the oneline version
 - `HEAD`: this is the current commit you are looking at.
 - `checkout`: a very powerful and general command to move your `HEAD`
+
+Remote commands:
+
+- `git remote add [URL]`: add the [URL] as a remote
+- `git push [where] [what]`: sends code form computer to remote
+- `git pull [where] [what]`: sends code form remote to computer
