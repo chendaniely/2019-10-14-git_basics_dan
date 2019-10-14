@@ -18,3 +18,10 @@
 - `git remote add [URL]`: add the [URL] as a remote
 - `git push [where] [what]`: sends code form computer to remote
 - `git pull [where] [what]`: sends code form remote to computer
+
+### A change from a branch
+
+Hello
+
+`git checkout -b`: created and moved to new branch
+
